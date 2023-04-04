@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Código com finalidade de somar as informações presentes nos códigos 2 e 3
+//CÃ³digo com finalidade de somar as informaÃ§Ãµes presentes nos cÃ³digos 2 e 3
 int main (){
     int minha_idade=21;
     int ano_nascimento=2002;
