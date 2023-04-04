@@ -14,5 +14,5 @@ int main (){
     printf("O meu aniversario de namoro e no dia %i\n",dia_aniversario_namoro);
 
 
-    return ;
+    return 0;
 }
